@@ -90,9 +90,7 @@ export default function Home() {
                 <p className="text-gray-600 mb-4">
                   At Sharpness, we believe in the power of creativity and technology to transform businesses. Our team of experts is dedicated to delivering cutting-edge solutions that help our clients stand out in the digital landscape.
                 </p>
-                <p className="text-gray-600">
-                  With years of experience and a passion for innovation, we're committed to bringing your ideas into vibrant focus and helping your business thrive in the online world.
-                </p>
+                <p className="text-gray-600">With years of experience and a passion for innovation, we re committed to bringing your ideas into vibrant focus and helping your business thrive in the online world.</p>
               </div>
               <div className="md:w-1/2 md:pl-8">
                 <Image
